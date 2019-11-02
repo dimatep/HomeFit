@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HomeFit</string>
+    <string name="facebook_application_id" translatable="false">649054585570410</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb649054585570410</string>
+    <string name="reg">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="scrub_format">Weight: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="was_added">&#160;was added!</string>
+    <string name="removed_from_workouts">&#160;removed from workouts!</string>
+    <string name="dont_forget_me">Don\'t forget me!</string>
+
+    <string name="calories">\u0020Calories</string>
+    <string name="calories_from_protein">Calories from Protein\u0020</string>
+    <string name="grams">\u0020 grams</string>
+    <string name="calories_from_fat">Calories from Fat\u0020</string>
+    <string name="swirl">\u0020~\u0020</string>
+    <string name="calories_from_carbs">Calories from Carbs\u0020</string>
+</resources>

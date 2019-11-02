@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_top">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"
+            android:fontFamily="@font/qanelas"/>
+        <item
+            android:id="@+id/workout"
+            android:icon="@drawable/ic_fitness_center_black_24px"
+            android:title="Program Manager"
+            android:fontFamily="@font/qanelas"/>
+        <item
+            android:id="@+id/nutrition"
+            android:icon="@drawable/ic_food_apple"
+            android:title="Nutrition"
+            android:fontFamily="@font/qanelas"/>
+        <item
+            android:id="@+id/progress"
+            android:icon="@drawable/ic_show_chart_black_24dp"
+            android:title="Progress"
+            android:fontFamily="@font/qanelas"/>
+    </group>
+    <group android:id="@+id/menu_bottom">
+        <item
+            android:id="@+id/alarm"
+            android:icon="@drawable/ic_alarm_black_24dp"
+            android:title="Alarm"
+            android:fontFamily="@font/qanelas"/>
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="About"
+            android:fontFamily="@font/qanelas"/>
+        <item
+            android:id="@+id/signout"
+            android:icon="@drawable/ic_login_variant"
+            android:title="Sign Out"
+            android:fontFamily="@font/qanelas"/>
+    </group>
+</menu>

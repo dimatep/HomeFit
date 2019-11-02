@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.AlarmActivity"
+    android:background="@drawable/gym_main_activity">
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/alarm_clock"
+        android:id="@+id/alarm_clock_iv"/>
+
+    <TextView
+        android:id="@+id/time_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/alarm_clock_iv"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/qanelasbold"
+        android:text="Time"
+        android:textColor="@color/white"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/open_time_picker_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_bgc"
+        android:fontFamily="@font/qanelas"
+        android:layout_below="@id/alarm_clock_iv"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:text="Open Time Picker" />
+
+    <Button
+        android:id="@+id/cancel_alarm_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_btn"
+        android:fontFamily="@font/qanelas"
+        android:layout_below="@id/open_time_picker_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:textSize="10sp"
+        android:text="Cancel Alarm" />
+
+
+
+</RelativeLayout>

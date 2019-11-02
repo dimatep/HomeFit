@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091200681970",
+    "firebase_url": "https://homefitness-c0eea.firebaseio.com",
+    "project_id": "homefitness-c0eea",
+    "storage_bucket": "homefitness-c0eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091200681970:android:7d224f80560ccb4b",
+        "android_client_info": {
+          "package_name": "com.example.homefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091200681970-88ssab3okfebuedv68jdd8dfuidj13pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homefit",
+            "certificate_hash": "ed6a81bcd679f32d13922f9651d588725f6b8273"
+          }
+        },
+        {
+          "client_id": "1091200681970-pct00os9ke2pj2i23gsfifuq33fosp39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2OW-NyifLC42HjoMn01HLKZs2fXYDno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091200681970-pct00os9ke2pj2i23gsfifuq33fosp39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
