@@ -6,6 +6,7 @@
  A convenient way to get rid of your training page and just get into the app.
  
  App Features:
+ 
 • Easy app sign-up - Connect with your Google user.
 
 • Building and editing a training program according to days.
