@@ -1,4 +1,5 @@
 # HomeFit
+The fitness application that will help you maintain a healthy lifestyle and help you achieve your goals. This application was build in Andorid Studio and all the data was saved in google's firebase.
 ## Decription
  The fitness app that will help you maintain a healthy lifestyle and help you achieve your goals. 
  In this app you can build and adjust your workout routine and the amount of daily calorie intake that you need to consume 
