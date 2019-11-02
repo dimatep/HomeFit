@@ -7,13 +7,23 @@
  
  App Features:
 • Easy app sign-up - Connect with your Google user.
+
 • Building and editing a training program according to days.
+
 • Testing the Recommended Daily Calorie Consumption (TDEE) by entering user information (gender, age, height, weight, training days, training intensity).
+
 • Track the weight of the user by entering a daily / weekly feed and displaying it on the graph.
+
 • Possibility to edit the existing workout in the number of sets, the weight of each set, the order of the performance of the exercises.
+
 • Adding exercises from an existing list of exercises to the database that sits on Google's FIREBASE.
+
 • Delete training / exercises by swiping left / right.
+
 • Mark completed sets during training.
+
 • Stopwatch in training.
+
 • Alarm clock adjustment for alert training.
+
 • Can be used even without an internet connection.
